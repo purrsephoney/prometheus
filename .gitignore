@@ -1,0 +1,4 @@
+#Ignore Prometheus database and logs 
+*.db
+*.log
+data/
